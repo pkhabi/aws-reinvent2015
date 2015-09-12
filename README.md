@@ -1,6 +1,6 @@
-# aws re:invent 2015
+# AWS re:Invent 2015
 
-Get ready for AWS re:invent 2015
+Get ready for AWS re:Invent 2015
 
 
 AWS - Sessions:
@@ -9,7 +9,7 @@ https://www.portal.reinvent.awsevents.com/connect/search.ww
 AWS - Your Calender:
 https://www.portal.reinvent.awsevents.com/connect/mySchedule.ww
 
-Planning for AWS re:invent(Trendmicro Blog):
+Planning for AWS re:Invent(Trendmicro Blog):
 http://aws.trendmicro.com/blog/2015/planning-for-aws-reinvent-t-30/?utm_content=buffer954fb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 The Startup Experience at AWS re:Invent:
