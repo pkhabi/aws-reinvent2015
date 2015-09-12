@@ -1,4 +1,4 @@
-# aws-reinvent2015
+# aws re:invent 2015
 
 Get ready for AWS re:invent 2015
 
